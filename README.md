@@ -297,3 +297,4 @@ Step 4: Explanation of the Code:
 •	We use the AccelStepper library to control the stepper motors (for X, Y, Z axes, and the extruder). The motors move according to the G-code commands parsed from the file.
 2.	Temperature Control:
 3.	•	The M104 and M140 G-code commands set the temperatures of the extruder and the heated bed, respectively. The code uses analog output to control MOSFET
+GNU General Public License v3.0 
